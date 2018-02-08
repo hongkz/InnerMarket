@@ -1,2 +1,14 @@
-<!--pages/market/index.wxml-->
-<text>pages/market/index.wxml</text>
+<view class="marketcontainer">
+    <view class="page-section">
+      <view class="">
+        <view class="flex-wrp" style="flex-direction:row;">
+          <view class="flex-item demo-text-1">
+            <image class="marketimage" src="../resources/img/1.jpg"/>
+          </view>
+          <view class="flex-item demo-text-3">
+            <image class="marketimage" src="../resources/img/3.jpg"/>
+          </view>
+        </view>
+      </view>
+    </view>
+</view>
